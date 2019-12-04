@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+	<Transactions>
+    <Transaction>2018/08/11 10:48:39.000.896,=C:\Users\Romulo\Documents\Embarcadero\Studio\Projects\Unit9.pas</Transaction>
+    <Transaction>2019/12/03 20:58:07.000.675,=C:\Users\Romulo\Documents\Embarcadero\Studio\Projects\Unit9.pas</Transaction>
+    <Transaction>2019/12/03 20:58:17.328,=C:\Users\Romulo\Documents\Embarcadero\Studio\Projects\Unit9.pas</Transaction>
+    <Transaction>2019/12/03 21:02:46.520,C:\Users\Romulo\Desktop\GeradorDeSQL\uPrincipal.dfm=C:\Users\Romulo\Documents\Embarcadero\Studio\Projects\Unit9.dfm</Transaction>
+    <Transaction>2019/12/03 21:02:46.520,C:\Users\Romulo\Desktop\GeradorDeSQL\uPrincipal.pas=C:\Users\Romulo\Documents\Embarcadero\Studio\Projects\Unit9.pas</Transaction>
+    <Transaction>2019/12/03 21:02:55.586,C:\Users\Romulo\Desktop\GeradorDeSQL\GeradorSQL.dproj=C:\Users\Romulo\Documents\Embarcadero\Studio\Projects\Project7.dproj</Transaction>
+    <Transaction>2019/12/03 21:04:26.492,=C:\Users\Romulo\Desktop\GeradorDeSQL\Unit1.pas</Transaction>
+    <Transaction>2019/12/03 21:04:45.940,C:\Users\Romulo\Desktop\GeradorDeSQL\uGeraSQL.pas=C:\Users\Romulo\Desktop\GeradorDeSQL\Unit1.pas</Transaction>
+  </Transactions>
+</BorlandProject>
