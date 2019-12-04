@@ -1,0 +1,17 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+	<Transactions>
+    <Transaction>2019/10/29 09:33:53.000.368,=C:\Users\supero\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2019/11/19 10:29:32.000.237,=C:\Users\supero\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2019/12/03 21:52:43.603,=C:\Users\supero\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2019/12/03 21:56:21.537,=C:\Users\supero\Documents\Embarcadero\Studio\Projects\Unit2.pas</Transaction>
+    <Transaction>2019/12/03 21:56:47.906,C:\Users\supero\Documents\Embarcadero\Studio\Projects\ProjetoConverter\uIConverter.pas=C:\Users\supero\Documents\Embarcadero\Studio\Projects\Unit2.pas</Transaction>
+    <Transaction>2019/12/03 21:57:20.900,C:\Users\supero\Documents\Embarcadero\Studio\Projects\ProjetoConverter\uProjetoIntConverter.pas=C:\Users\supero\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2019/12/03 21:57:20.900,C:\Users\supero\Documents\Embarcadero\Studio\Projects\ProjetoConverter\uProjetoIntConverter.dfm=C:\Users\supero\Documents\Embarcadero\Studio\Projects\Unit1.dfm</Transaction>
+    <Transaction>2019/12/03 22:00:51.406,=C:\Users\supero\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2019/12/03 22:19:18.091,C:\Users\supero\Documents\Embarcadero\Studio\Projects\ProjetoConverter\uConverteTexto.pas=C:\Users\supero\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2019/12/03 22:21:54.444,=C:\Users\supero\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2019/12/03 22:22:41.114,C:\Users\supero\Documents\Embarcadero\Studio\Projects\ProjetoConverter\uConverteTextoFuncao.pas=C:\Users\supero\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2019/12/03 22:43:45.081,C:\Users\supero\Documents\Embarcadero\Studio\Projects\ProjetoConverter\ProjetoConverter.dproj=C:\Users\supero\Documents\Embarcadero\Studio\Projects\Project1.dproj</Transaction>
+  </Transactions>
+</BorlandProject>
